@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Equation Solver
 This application allows you to solve linear equations of the form ax + b = c.
 
@@ -9,3 +10,6 @@ python main.py
 Testing
 The unit tests for the format_equation function can be found in the test_format_equation.py file. To run the tests, run the following command:
 python -m unittest test_format_equation.py 
+=======
+# FoondaMate-Software-Engineer-Coding-Challenge-002
+>>>>>>> 435e07d5267d54fb298c208cd1cb1ec3f4bdd7a4
