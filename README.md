@@ -8,4 +8,4 @@ python main.py
 
 Testing
 The unit tests for the format_equation function can be found in the test_format_equation.py file. To run the tests, run the following command:
-python -m unittest test_format_equation.py
+python -m unittest test_format_equation.py 
